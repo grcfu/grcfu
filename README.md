@@ -1,6 +1,6 @@
 ## Hi, I'm Grace!
 
-📚Danforth Scholar studying Business and Computer Science at Washington University in St. Louis<br/>
+📚Danforth Scholar studying Computer Science and Business at Washington University in St. Louis<br/>
 📌Currently developing ML models to improve investigation prioritization in Child Protective Services<br/>
 
 ## 🌐 Socials:

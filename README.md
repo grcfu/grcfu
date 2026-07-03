@@ -1,7 +1,7 @@
 ## Hi, I'm Grace!
 
 📚 Danforth Scholar studying Computer Science and Business at Washington University in St. Louis<br/>
-💻 Currently a Software Engineer Intern at World Wide Technology & OpsCompanion, building enterprise microservices and cross-platform desktop apps<br/>
+💻 Currently a Software Engineer Intern at World Wide Technology & OpsCompanion<br/>
 🚀 Recently engineered a HIPAA-compliant AI data pipeline processing 4,500+ patient encounters across 6 clinics<br/>
 
 ## 🌐 Socials:

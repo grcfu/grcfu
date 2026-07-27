@@ -1,11 +1,39 @@
-## Hi, I'm Grace!
+<div align="center">
+  
+  # 🌸 Grace's Garden 🌸
+  *Cultivating scalable software, clean architecture, and full-stack solutions.*
+</div>
 
-📚 Danforth Scholar studying Computer Science and Business at Washington University in St. Louis<br/>
-💻 Currently a Software Engineer Intern at World Wide Technology & OpsCompanion<br/>
-🚀 Recently engineered a HIPAA-compliant AI data pipeline processing 4,500+ patient encounters across 6 clinics<br/>
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/grcfu) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=googlechrome&logoColor=white)](https://grcfu.github.io/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gracefu@wustl.edu) 
+## 🌷 About the Gardener
+*   **Currently Cultivating:** Software Engineer Intern at World Wide Technology & OpsCompanion
+*   **Planting Roots:** Danforth Scholar studying Computer Science and Business at Washington University in St. Louis
+*   **Sharing Knowledge:** Course Teaching Assistant for Computer Science and Microeconomics
+*   **In Full Bloom:** Engineered a HIPAA-compliant AI data pipeline processing 4,500+ patient encounters across 6 clinics
+*   **Recent Harvest:** Built Pointswap, a full-stack campus marketplace using Next.js, FastAPI, and Supabase
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=flat&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+## 🌿 The Greenhouse (Tech Stack)
+
+**Languages**  
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat-square&logo=swift&logoColor=white)
+
+**Frameworks & Libraries**  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![SwiftUI](https://img.shields.io/badge/swiftui-000000?style=flat-square&logo=swift&logoColor=white)
+
+**Infrastructure & Databases**  
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
+
+**Specialty Cultivation**
+*Native iOS Development • AI Agent Development • Prompt Engineering • Agile/Scrum*
+
+---
+
+<div align="center">
+          
+### 🌼 Let's Grow Together! 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/grcfu) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFDAB9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://grcfu.github.io/) 
+[![Email](https://img.shields.io/badge/Email-E6E6FA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gracefu@wustl.edu)
+
+</div>

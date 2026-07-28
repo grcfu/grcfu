@@ -1,7 +1,7 @@
 <div align="center">
   
   # 🌸 Grace's Garden 🌸
-  *Cultivating scalable software, clean architecture, and full-stack solutions.*
+  *Planting ideas, growing solutions, and building everything with heart.*
 </div>
 
 ---

@@ -7,7 +7,7 @@
 ---
 
 ## 🌷 About the Gardener
-*   **Currently Cultivating:** Software Engineer Intern at World Wide Technology & OpsCompanion
+*   **Just Cultivated:** Software Engineer Intern at World Wide Technology & OpsCompanion
 *   **Planting Roots:** Danforth Scholar studying Computer Science and Business at Washington University in St. Louis
 *   **Sharing Knowledge:** Course Teaching Assistant for Computer Science and Microeconomics
 *   **In Full Bloom:** Engineered a HIPAA-compliant AI data pipeline processing 4,500+ patient encounters across 6 clinics
